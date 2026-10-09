@@ -1,4 +1,10 @@
-## Hi there 👋
+- 💻 Full Stack Developer | Building modern, scalable, and user-focused web applications.
+
+- 🚀 Passionate about turning ideas into functional digital products, writing clean code, and continuously learning new technologies.
+
+- 🛠️ Tech Stack: React · Next.js · TypeScript · Node.js · Express · PostgreSQL · Git
+
+- 🌱 Always learning. Always building.
 
 <!--
 **claudioanibalsmith/claudioanibalsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
